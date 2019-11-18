@@ -1,0 +1,4 @@
+#Wed Oct 23 23:45:41 CEST 2019
+base.0=/home/mcoppieters/VisualStudioCodeProjects/arator/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
